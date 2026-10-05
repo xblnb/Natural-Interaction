@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natural_interaction.mixin",
+  "package": "com.naturalinteraction.mixin",
   "compatibilityLevel": "JAVA_17",
   "client": [
     "accessor.LevelRendererAccessor"
