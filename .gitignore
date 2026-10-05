@@ -1,0 +1,7 @@
+/.gradle/
+/.idea/
+LEA-b1.0/
+**/build
+/runs/
+/tools/
+*.md

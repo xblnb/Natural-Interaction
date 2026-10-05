@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="financialmarket"
+version="1.0.0"
+displayName="Natural Interaction Accessibility"
+authors="Your Name"
+description='''Eye-tracking, facial expression and body tracking input layer for accessible Minecraft play.'''
+
+[[dependencies.financialmarket]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.financialmarket]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="CLIENT"

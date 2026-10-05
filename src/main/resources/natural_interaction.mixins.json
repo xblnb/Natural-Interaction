@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.natural_interaction.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "accessor.LevelRendererAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
